@@ -121,6 +121,7 @@ Node* deleteNode(Node* root,int data)
         }
     }
     return root;
+    
 }
 Node* insertNode(Node* root,int data)
 {
